@@ -10,7 +10,7 @@ Our task is to predict the result of the inspections that took place in 2021 and
 The solution set contains more than 900K inspected pipes. The data includes a wide range of features such as pipe length, diameter, material, location, etc.
 
 ## Evaluation Metric
-The metric for this competition will be the area under the ROC curve.
+The metric for this competition was the area under the ROC curve.
 
 ## Usage
 As we have signed an NDA, we are unable to share the data that was used to train our model. However, we have included the code used to build the model in the Jupyter Notebook `Submission.ipynb`. To replicate our results, you will need to source your own data and update the data paths in the notebook.
